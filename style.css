@@ -1,0 +1,142 @@
+.b{
+    background-image: url("background.jpeg");
+    background-size: 100%;
+
+    background-position-y: -94px;
+}
+.i{
+    width: 120px;
+    margin-left: 40px;
+    margin-top: 14px;
+
+}
+
+.x{
+    list-style: none;
+    margin-left: 338px;
+    margin-top: -19px;
+}
+
+
+.y{
+    display: inline;
+    font-family: "Gotham";
+    color: white;
+    font-size: 14.35px;
+    margin-left: 27px;
+
+
+}
+@font-face{
+    src: url("Gotham.woff2");
+    font-family: "Gotham";
+}
+
+.z{
+    list-style: none;
+    margin-left: 1058px;
+    margin-top: -34px;
+
+
+}
+
+.P{
+    font-family: "Gotham";
+    color: white;
+    font-size: 39px;
+    margin-left: 590px;
+    margin-top: 71px;
+    font-weight: bold;
+
+
+
+}
+
+.r{
+    width: 725px;
+    height: 90px;
+    margin-left: 199px;
+    margin-top: 375px;
+
+
+}
+
+.s{
+    list-style: none;
+
+}
+
+.t{
+    display: inline-block;
+    margin-left: 86px;
+}
+
+.d1{
+    font-family: "Gotham";
+    font-size: 25.65px;
+    font-weight: bold;
+    color: white;
+}
+
+.d2{
+    font-family: "Gotham";
+    font-size: 12px;
+    color: white;
+    margin-top: 8PX;
+    margin-left: 6px;
+
+
+}
+
+.d3{
+    font-family: "Gotham";
+    font-size: 12px;
+    color: white;
+    margin-top: 8PX;
+    margin-left: -10px;
+
+
+}
+
+.d4{
+    font-family: "Gotham";
+    font-size: 12px;
+    color: white;
+    margin-top: 8PX;
+    margin-left: 3px;
+
+}
+
+.u{
+    font-family: "Gotham";
+    font-size: 14px;
+    font-weight: bolder;
+    width: 203px;
+    height: 40px;
+    background-color: transparent;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 3px;
+    color: white;
+}
+
+.e{
+    margin-left: 615px;
+    margin-top: -53px;
+}
+
+.u:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.y:hover{
+    background-color: rgba(130, 130, 130, 0.2);
+    box-shadow: 0px 0px 0px 10px rgba(130, 130, 130, 0.2);
+    border-radius: 1px;
+    cursor: pointer;
+    transition-duration: 0.3s;
+}
